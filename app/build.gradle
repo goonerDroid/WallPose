@@ -80,7 +80,7 @@ dependencies {
     //materialDrawer
     implementation "com.mikepenz:materialdrawer:7.0.0-rc05"
     implementation "com.mikepenz:materialdrawer-nav:7.0.0-rc05"
-
+    implementation "androidx.lifecycle:lifecycle-extensions:2.2.0"
 
     testImplementation 'junit:junit:4.13.2'
     implementation "androidx.annotation:annotation:1.7.0"
